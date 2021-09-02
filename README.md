@@ -1,2 +1,2 @@
 # PayPoundCard
-WP plugin for PayPound Card Payment.
+PayPound WP PLugin For Card Payment
